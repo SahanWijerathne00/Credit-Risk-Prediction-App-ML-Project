@@ -2,6 +2,8 @@
 
 A machine learning web app that predicts credit risk using XGBoost model with a modern Streamlit interface.
 
+![Front Page](./homepage.PNG)
+
 ## 🚀 Quick Start
 
 ### Installation
